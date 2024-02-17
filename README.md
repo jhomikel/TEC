@@ -1,0 +1,2 @@
+# TEC
+Dominio de Tecnología
